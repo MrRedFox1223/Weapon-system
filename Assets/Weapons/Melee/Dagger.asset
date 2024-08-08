@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ea375c7e7e20564ab39213f80601e75, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  weaponName: Silver dagger
+  spriteAddressablePrefab:
+    m_AssetGUID: 4fcb5f27bc41fe847ba6080812beec03
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  weaponUI: {fileID: 0}
+  UIPosition: {x: 0, y: 0}
+  damageType: 1
+  damage: 5
+  blockFactor: 0.1
+  slashConfig: {fileID: 11400000, guid: b89b69c302b3b58478e3ae64acfbbea9, type: 2}

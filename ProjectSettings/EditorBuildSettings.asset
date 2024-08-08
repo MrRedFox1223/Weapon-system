@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WeaponSystem.unity
+    guid: 890fad34f78b39844bd9f251d6c571dd
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: e197c5ba61c231645991797ead024efe, type: 2}
   m_UseUCBPForAssetBundles: 0

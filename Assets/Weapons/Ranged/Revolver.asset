@@ -19,6 +19,7 @@ MonoBehaviour:
     m_SubObjectType: 
     m_EditorAssetChanged: 0
   UIPosition: {x: 0, y: 0}
+  spritePrefab: {fileID: 2056597874012404486, guid: 8c44f521237550f4fa317de582de8ff9, type: 3}
   damageType: 0
   damage: 10
   ammoLimit: 6

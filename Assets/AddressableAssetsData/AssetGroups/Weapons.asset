@@ -20,22 +20,26 @@ MonoBehaviour:
   - m_GUID: 88fd4b0ef7cf1664fa7dfb359a6fcf46
     m_Address: Assets/Prefabs/Sprites/IronSword.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4fcb5f27bc41fe847ba6080812beec03
     m_Address: Assets/Prefabs/Sprites/SilverDagger.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8c44f521237550f4fa317de582de8ff9
     m_Address: Assets/Prefabs/Sprites/TheColt.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 38d8bf77a30a87d4db4bed84c15ececa
     m_Address: Assets/Prefabs/Sprites/TommyGun.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - default
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 00755416bb865b342a9fb9eaee6f47ac, type: 2}

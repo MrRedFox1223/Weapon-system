@@ -1,2 +1,7 @@
 # Weapon system
- Zadanie rekrutacyjne Jujubee - Kornel Samociuk
+ 
+ C#
+
+Weapon-system
+Public
+Sriptable object weapon system - Unity - Kornel Samociuk
